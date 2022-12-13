@@ -1,6 +1,6 @@
 import React from 'react'
-import { DATA } from './productsdata'
-import Products from './Products'
+import { DATA } from '../components/productsdata'
+import Products from '../components/Products'
 
 const Shop = () => {
   return (
